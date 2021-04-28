@@ -1,14 +1,17 @@
 import './App.css';
 
+
 import logo from './logo.svg';
 
 const test = `test`;
 
-const a = 'test';
+var a = 'test';
+
+console.log(dataString3);
 
 function Test2() {
-      console.log("test");
-  console.log('sdfsdfsadf')
+  console.log('test');
+  console.log(dataString3);
 }
 
 function App() {
